@@ -31,3 +31,10 @@
 ## 제3주차(조건문과 반복문)
 
 -  [**강의안**](https://github.com/hxk271/DataSciSocs/blob/main/W03.ipynb)
+
+
+<br/>
+
+## 제4주차(``matplotlib``를 이용한 시각화)
+
+-  [**강의안**](https://github.com/hxk271/DataSciSocs/blob/main/W04.ipynb)
